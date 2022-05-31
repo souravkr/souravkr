@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://trickspy.in#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://trickspy.in#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://trickspy.in)
+[![website](./img/globe-dark.svg)](https://trickspy.in)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/trickspyr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/trickspy#gh-dark-mode-only)
